@@ -61,6 +61,5 @@
 ### Contact
 
 - GitHub — [github.com/nf-exe](https://github.com/nf-exe)
-- Email — *(add yours here)*
 - Discord — *(add yours here)*
 
