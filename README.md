@@ -45,30 +45,6 @@
 
 <br/>
 
-### Stats
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=nf-exe&show_icons=true&title_color=F0F0F0&text_color=8B949E&icon_color=F0F0F0&bg_color=0D1117&border_color=30363D&border_radius=4&hide_border=false">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=nf-exe&show_icons=true&title_color=111111&text_color=6B6B6B&icon_color=111111&bg_color=FFFFFF&border_color=E5E5E5&border_radius=4">
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=nf-exe&layout=compact&title_color=F0F0F0&text_color=8B949E&bg_color=0D1117&border_color=30363D&border_radius=4">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nf-exe&layout=compact&title_color=111111&text_color=6B6B6B&bg_color=FFFFFF&border_color=E5E5E5&border_radius=4">
-</picture>
-
-<br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=nf-exe&theme=github-compact&bg_color=0D1117&color=F0F0F0&line=F0F0F0&point=F0F0F0&area=true&hide_border=true">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=nf-exe&theme=minimal&bg_color=FFFFFF&color=111111&line=111111&point=111111&area=true&hide_border=true">
-</picture>
-
-</div>
-
-<br/>
 
 ### Contact
 
