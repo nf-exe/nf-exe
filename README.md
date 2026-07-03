@@ -45,6 +45,18 @@
 
 <br/>
 
+### Stats
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=nf-exe&theme=github-compact&bg_color=0D1117&color=F0F0F0&line=F0F0F0&point=F0F0F0&area=true&hide_border=true">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=nf-exe&theme=minimal&bg_color=FFFFFF&color=111111&line=111111&point=111111&area=true&hide_border=true">
+</picture>
+
+</div>
+
+<br/>
 
 ### Contact
 
