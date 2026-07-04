@@ -17,7 +17,7 @@
 
 ### About
 
-- Incoming B.Tech student focused on Cybersecurity
+- B.Tech student focused on Cybersecurity
 - Exploring Linux, Networking, and Offensive Security
 - Daily driving Archcraft Linux with Openbox
 - Building projects while learning in public
