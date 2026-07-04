@@ -42,6 +42,7 @@
 
 | Project | Description |
 |---|---|
+|['ToolBox'](https://github.com/nf-exe/ToolBox) | Contains simple details about Cybersecurity + Linux tools|
 
 <br/>
 
