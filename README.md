@@ -61,6 +61,5 @@
 
 ### Contact
 
-- GitHub — [github.com/nf-exe](https://github.com/nf-exe)
-- Discord — *(add yours here)*
+- Reddit — [reddit.com/nf_exe](https://www.reddit.com/user/nf_exe/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)
 
