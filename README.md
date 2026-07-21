@@ -43,6 +43,7 @@
 | Project | Description |
 |---|---|
 |['ToolBox'](https://github.com/nf-exe/ToolBox) | Contains simple details about Cybersecurity + Linux tools|
+|['Dotfiles'](https://github.com/nf-exe/dotfiles) | Dotfiles for my linux system|
 
 <br/>
 
