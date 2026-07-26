@@ -28,9 +28,6 @@
 ### Skills
 
 <div align="center">
-### Skills
-
-<div align="center">
 
 ![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=1793D1)
 ![Arch Linux](https://img.shields.io/badge/Arch_Linux-000000?style=for-the-badge&logo=arch-linux&logoColor=1793D1)
