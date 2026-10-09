@@ -59,6 +59,11 @@
 <div align="center">
 
 <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=nf-exe&background=071521&ring=38bdf8&fire=38bdf8&currStreakLabel=bae6fd&sideLabels=bae6fd&currStreakNum=e0f2fe&sideNums=e0f2fe&dates=7f9db5&hide_border=true" alt="GitHub streak stats" />
+
+<br/>
+
+<img src="https://ghchart.rshah.org/38bdf8/nf-exe" alt="GitHub contribution graph for nf-exe" width="100%" />
+
 </div>
 
 ### Contact
