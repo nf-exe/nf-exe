@@ -51,23 +51,15 @@
 
 | Project | Description |
 |---|---|
-|['ToolBox'](https://github.com/nf-exe/ToolBox) | Contains simple details about Cybersecurity + Linux tools|
 |['Dotfiles'](https://github.com/nf-exe/dotfiles) | Dotfiles for my linux system|
 
 <br/>
 
 ### Stats
-
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=nf-exe&theme=github-compact&bg_color=0D1117&color=F0F0F0&line=F0F0F0&point=F0F0F0&area=true&hide_border=true">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=nf-exe&theme=minimal&bg_color=FFFFFF&color=111111&line=111111&point=111111&area=true&hide_border=true">
-</picture>
-
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=nf-exe&background=071521&ring=38bdf8&fire=38bdf8&currStreakLabel=bae6fd&sideLabels=bae6fd&currStreakNum=e0f2fe&sideNums=e0f2fe&dates=7f9db5&hide_border=true" alt="GitHub streak stats" />
 </div>
-
-<br/>
 
 ### Contact
 
